@@ -41,9 +41,9 @@
                     <TextBlock VerticalAlignment="Bottom" Height="25" Width="50" HorizontalAlignment="Center"/>
                     <Button  VerticalAlignment="Bottom" Height="25" Width="38"/>
                     <TextBox Width="30" VerticalAlignment="Bottom" Height="25"  />
-                    <TextBlock VerticalAlignment="Bottom" Height="25"><Run Text="écus sur le chien numéro"/></TextBlock>
+                    <TextBlock VerticalAlignment="Bottom" Height="25"></TextBlock>
                     <TextBox VerticalAlignment="Bottom" Height="25" Width="20"  />
-                    <Button Content="Lancer la course" VerticalAlignment="Bottom" Height="25"/>
+                    <Button VerticalAlignment="Bottom" Height="25"/>
                 </StackPanel>
                 <Button Grid.Row="1"   Height="31" VerticalAlignment="Bottom" Width="685" Content="reset"/>
             </Grid>
